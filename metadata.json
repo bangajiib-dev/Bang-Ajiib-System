@@ -1,0 +1,6 @@
+{
+  "name": "Bang Ajiib System — Portal Data & Sinkronisasi Real-Time",
+  "description": "Sistem manajemen data personal terenkripsi dengan sinkronisasi otomatis Google Spreadsheet & Apps Script secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
