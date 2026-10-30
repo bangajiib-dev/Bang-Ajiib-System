@@ -63,7 +63,7 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
       >
         <div className="space-y-1.5 text-center">
           <img
-            src="/assets/aistudio/image_db0b13c8.png"
+            src="/assets/aistudio/image_280feb17.png"
             alt="Logo Bang Ajiib System"
             className="w-12 h-12 rounded-xl object-cover mx-auto mb-3 shadow-xs"
           />

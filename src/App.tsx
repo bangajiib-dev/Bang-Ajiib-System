@@ -462,7 +462,7 @@ export default function App() {
             <div className="max-w-5xl mx-auto flex items-center justify-between gap-4">
               <div className="flex items-center gap-2.5">
                 <img
-                  src="/assets/aistudio/image_db0b13c8.png"
+                  src="/assets/aistudio/image_280feb17.png"
                   alt="Logo Bang Ajiib System"
                   className="w-8 h-8 rounded-lg object-cover shrink-0"
                 />
