@@ -460,9 +460,16 @@ export default function App() {
           {/* Simple Top Header with Top-Right Logout Button */}
           <header className="sticky top-0 z-40 bg-white border-b border-slate-200 px-4 sm:px-6 py-3">
             <div className="max-w-5xl mx-auto flex items-center justify-between gap-4">
-              <span className="text-base font-bold tracking-tight text-slate-900 whitespace-nowrap">
-                Bang Ajiib System
-              </span>
+              <div className="flex items-center gap-2.5">
+                <img
+                  src="/assets/aistudio/image_db0b13c8.png"
+                  alt="Logo Bang Ajiib System"
+                  className="w-8 h-8 rounded-lg object-cover shrink-0"
+                />
+                <span className="text-base font-bold tracking-tight text-slate-900 whitespace-nowrap">
+                  Bang Ajiib System
+                </span>
+              </div>
 
               <div className="flex items-center gap-3">
                 <span className="hidden sm:inline text-xs font-mono text-slate-500">

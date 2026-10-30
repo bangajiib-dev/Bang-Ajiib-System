@@ -62,9 +62,11 @@ export const LoginView: React.FC<LoginViewProps> = ({ onLoginSuccess }) => {
         className="w-full max-w-md bg-white border border-slate-200 rounded-xl p-6 sm:p-8 shadow-xs space-y-6"
       >
         <div className="space-y-1.5 text-center">
-          <div className="w-10 h-10 rounded-lg bg-slate-900 text-white flex items-center justify-center font-bold text-sm mx-auto mb-3">
-            BA
-          </div>
+          <img
+            src="/assets/aistudio/image_db0b13c8.png"
+            alt="Logo Bang Ajiib System"
+            className="w-12 h-12 rounded-xl object-cover mx-auto mb-3 shadow-xs"
+          />
           <h1 className="text-xl font-bold text-slate-900 tracking-tight">Bang Ajiib System</h1>
           <p className="text-xs text-slate-500">Masuk menggunakan email yang terdaftar</p>
         </div>
