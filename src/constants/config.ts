@@ -12,7 +12,7 @@ export const PERMANENT_LINKS = {
     'https://docs.google.com/spreadsheets/d/1_ImJ32kF3PfKdg9iTfO187a2Xbb8CzW36mJLdfS7QB0/export?format=csv',
   APPS_SCRIPT_EXEC_URL:
     'https://script.google.com/macros/s/AKfycbzFxIRgm2CYI1zON5exZgTwu0s5-2sBPU5GydQ1voJvscnpsrgS0OqvqtC5Vq82XMs3/exec',
-  MASUK_SYSTEM_TARGET_URL: 'https://share.gemini.google/4qJpcpZOCjWe',
+  MASUK_SYSTEM_TARGET_URL: 'https://share.gemini.google/Jh3yfsmd58OE',
 } as const;
 
 export const UNREGISTERED_EMAIL_MESSAGE =
